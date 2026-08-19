@@ -10,7 +10,7 @@ Three clustering approaches were explored:
 
 - K-Means Clustering
 - Gaussian Mixture Model (GMM)
-- K-Means with Cosine Distance
+- Spherical K-Means
 
 The clustering models were evaluated primarily using **Silhouette Score** and **cluster size analysis**.
 
